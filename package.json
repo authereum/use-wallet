@@ -18,7 +18,7 @@
     "prepublishOnly": "git push && git push --tags"
   },
   "dependencies": {
-    "@web3-react/authereum-connector": "^6.0.9",
+    "@web3-react/authereum-connector": "git://github.com/authereum/web3-react.git#authereum-connector",
     "@web3-react/core": "^6.0.9",
     "@web3-react/fortmatic-connector": "^6.0.9",
     "@web3-react/frame-connector": "^6.0.9",
